@@ -1,0 +1,8 @@
+{
+  "committer_username": "Ava-JeevaYovanE",
+  "id": 123456,
+  "email": "user@example.com",
+  "verified": true, // This indicates the email is verified
+  // Other user profile information...
+}
+
